@@ -23,7 +23,7 @@ The data records from the following publications must be downloaded and put into
 
 - [Effective masses](https://www.nature.com/articles/sdata201785): The two files must be extracted into `raw_data/eff_mass_data_1/` and `raw_data/eff_mass_data_2/`.
 - [Dielectric constants](https://www.nature.com/articles/sdata201865): Must be extracted into `raw_data/dielectric_pettreto/`.
-- Raw hybrid DFT data is available from [ZENODO LINK] and must be extracted into `raw_data/hybrid_calcs_raw/`.
+- Raw hybrid DFT data is available from Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3516226.svg)](https://doi.org/10.5281/zenodo.3516226) and must be extracted into `raw_data/hybrid_calcs_raw/`.
 - All data in `processed_data/` can be regenerated using the jupyter notebooks. We include a version of it here in case there are future changes to external databases that are accessed as part of the analysis. 
 
 ## Requirements
